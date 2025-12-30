@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Bluewave Luxury Resort.jpg" width="800">
+</p>
+
 # Project: BlueWave Luxury Resort Database
 
 ## 1. Introduction
